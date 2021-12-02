@@ -17,7 +17,8 @@
 
    pip install Django
 
-4. After running the above commands run code
+4. Open the project folder in any IDE like Pycharm, Visual studio code, ... etc
+4. Run the following commands in terminal / command promt (it should be pointed to project folder)
 
    python manage.py migrate
 
