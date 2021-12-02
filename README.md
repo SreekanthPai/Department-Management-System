@@ -25,7 +25,4 @@
    python manage.py runserver
 
 
-
-THANK YOU
------------ 
    
